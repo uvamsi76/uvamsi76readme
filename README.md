@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js,trpc,prisma,graphql**
+- 🌱 I’m currently learning **Next.js,trpc,prisma,graphql, probability concepts for ML**
 
-- 💬 Ask me about **MERN , ML ,.net**
+- 💬 Ask me about **MERN ,.net**
 
 - 📫 How to reach me **uvamsi76@gmail.com**
 
